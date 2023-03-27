@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-Each section contains notes on the four topics: HTML, CSS, Gti and JS
+Each section contains notes on the four topics: HTML, CSS, Git and JS
 
 
 ## Credits
